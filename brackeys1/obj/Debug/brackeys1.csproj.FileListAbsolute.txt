@@ -1,0 +1,7 @@
+C:\Users\rjhar\workspace\proj\brackeys1Solution\brackeys1\bin\Debug\brackeys1.exe.config
+C:\Users\rjhar\workspace\proj\brackeys1Solution\brackeys1\bin\Debug\brackeys1.exe
+C:\Users\rjhar\workspace\proj\brackeys1Solution\brackeys1\bin\Debug\brackeys1.pdb
+C:\Users\rjhar\workspace\proj\brackeys1Solution\brackeys1\obj\Debug\brackeys1.csprojAssemblyReference.cache
+C:\Users\rjhar\workspace\proj\brackeys1Solution\brackeys1\obj\Debug\brackeys1.csproj.CoreCompileInputs.cache
+C:\Users\rjhar\workspace\proj\brackeys1Solution\brackeys1\obj\Debug\brackeys1.exe
+C:\Users\rjhar\workspace\proj\brackeys1Solution\brackeys1\obj\Debug\brackeys1.pdb
